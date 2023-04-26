@@ -2,6 +2,16 @@
 
 Makes compilation videos and upload them to Youtube 
 
+## Table Of Contents
+
+* [Getting Started](#getting-started)
+  * [Installation](#installation)
+  * [Warnings N Note](#warnings-n-note)
+
+
+## Getting Started
+
+
 The compilation maker scrapes videos uploaded by the people who you follow using the provided instagram account.
 
 - You can also post shorts, for that scrape videos from people who upload videos which are shot in vertical orientation with a 9:16 aspect ratio and 1920 pixels by 1080 pixels resolution.
@@ -17,7 +27,7 @@ This project was inspired from https://github.com/nathan-149/automated_youtube_c
 - You need to wait for about 10 days for getting your application verrified, after that your yt vids be public
 
 
-## Install and Run :
+### Install and Run :
 
 - You need python and pip installed 
 
