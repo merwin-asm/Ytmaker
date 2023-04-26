@@ -2,7 +2,7 @@
 
 Makes compilation videos and upload them to Youtube 
 
- <img src="https://komarev.com/ghpvc/?username=merwin-asm-yt-maker&label=Project%20views&color=0e75b6&style=flat" /> </p>
+<p align="right">  <img src="https://komarev.com/ghpvc/?username=merwin-asm-yt-maker&label=Project%20views&color=0e75b6&style=flat" /> </p>
 
 ## Table Of Contents
 
