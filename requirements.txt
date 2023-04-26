@@ -1,0 +1,4 @@
+instagrapi
+rich
+moviepy
+pillar-youtube-upload
