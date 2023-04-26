@@ -5,12 +5,15 @@ Makes compilation videos and upload them to Youtube
 ## Table Of Contents
 
 * [Getting Started](#getting-started)
-  * [Installation](#installation)
+  * [General Information](#general-information)
   * [Warnings N Note](#warnings-n-note)
+  * [Installation](#install-and-run)
 
 
 ## Getting Started
 
+
+### General Information
 
 The compilation maker scrapes videos uploaded by the people who you follow using the provided instagram account.
 
@@ -21,13 +24,13 @@ The compilation maker scrapes videos uploaded by the people who you follow using
 This project was inspired from https://github.com/nathan-149/automated_youtube_channel, But it doesnt work any longer ig (concludes after trying it out and going through the issues in the repo) 
 
 
-###  Warnings N Note :
+###  Warnings N Note 
 - Don't you the tool on any instagram accounts with out their allowance
 - The CPU will go brrrr.. When the video is being compiled , So there are chances things get hot etc and etc
 - You need to wait for about 10 days for getting your application verrified, after that your yt vids be public
 
 
-### Install and Run :
+### Install and Run 
 
 - You need python and pip installed 
 
