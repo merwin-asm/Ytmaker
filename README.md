@@ -30,7 +30,7 @@ This project was inspired from https://github.com/nathan-149/automated_youtube_c
 - Don't you the tool on any instagram accounts with out their allowance
 - The CPU will go brrrr.. When the video is being compiled , So there are chances things get hot etc and etc
 - You need to wait for about 10 days for getting your application verrified, after that your yt vids be public
-
+- You need to have a intro.mp4 for the videos intro
 
 ### Install and Run 
 
